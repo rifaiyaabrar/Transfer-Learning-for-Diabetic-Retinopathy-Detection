@@ -79,8 +79,8 @@ We utilized:
 
 ## Contributors
 
-- Minhaz Uddin - University of Vaasa
 - S M Rifaiya Abrar - University of Vaasa
+- Minhaz Uddin - University of Vaasa
 - Sushil Bhusal - University of Vaasa
 
 ## References
