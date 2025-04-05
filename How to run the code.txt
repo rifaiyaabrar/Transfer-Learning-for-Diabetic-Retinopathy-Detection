@@ -1,0 +1,14 @@
+Hello!
+
+Welcome to group 63's Project. 
+
+
+Here is how you can run the code:
+
+Mount your drive. 
+
+Run the code one by one. 
+
+Make sure the directory is there in your own drive, if not make one. 
+
+We have provided our trained models ( pth files ) google drive link in the report, as well as the test_prediction csv files for every model we ran. 
